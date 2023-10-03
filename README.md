@@ -1,24 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently Studying on Computer Science & Engineering<br>👯 I am currently working hard to become a Software Engineer<br>🤝 I’m looking for help with Software Engineering<br>🌱 I’m currently learning C, C++, Data Structure & Algorithms,<br>      OOP & Python  Programming<br>💬 Ask me about Basic Programming<br>⚡ Fun fact - I am lazy but smart 
+### Hi there 👋, my name is Md. Rasel
+#### I am a Student Programmer 
+🌟 Assalamu Alaikum! I'm Md. Rasel, a dedicated Muslim and passionate programmer from Bangladesh. 🇧🇩 with expertise in C, C++,Data Structure & Algorithms, OOP Python and more. Pursuing a BSc in Computer Science, seeking tech opportunities. Connect with me on GitHub!
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/iam.russellafrizu/)
-https://leetcode.com/rizurasel67/
-https://codeforces.com/profile/rizurasel_06
-https://www.hackerrank.com/rizurasel_cse?hr_r=1
+Skills: C / C++ for DSA  / OOP Python / Java / HTML 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rasel006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rasel006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasel006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning C, C++, Data Structure & Algorithms, OOP And Python Programming  
+- 👯 I’m looking to collaborate on Software Engineering 
+- 🤔 I’m looking for help with Programmer 
+- 💬 Ask me about Basic Programming  
+- 📫 How to reach me: rizurasel.cse@gmail.com 
+- ⚡ Fun fact: I am lazy but smart 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rasel006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rasel006&icon=0&color=0)](https://visitcount.itsvg.in)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rasel006)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/iam.russellafrizu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/rizurasel_06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/rizurasel_cse?hr_r=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/rizurasel67/)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Rasel006)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rasel006)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Rasel006&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Rasel006)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Rasel006)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Rasel006)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Rasel006)  
