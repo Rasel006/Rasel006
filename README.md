@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is  Md. Rasel
 #### CSE Student Programmer
+![CSE Student Programmer](https://img.freepik.com/free-vector/hand-drawn-youtube-banner_52683-78072.jpg?w=826&t=st=1696351320~exp=1696351920~hmac=7c1963bc0beb2f447c8e9001bbd3ec31e20bddd2310a8263d1de85d7235301f5)
+
 🌟 Assalamu Alaikum! I'm Md. Rasel, a dedicated Muslim and passionate programmer from Bangladesh. 🇧🇩 with expertise in C, C++,Data Structure & Algorithms, OOP Python and more. Pursuing a BSc in Computer Science, seeking tech opportunities. Connect with me on GitHub!
 
 
