@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is  Md. Rasel
-#### CSE Student Programmer
-[CSE Student Programmer]
 <img src="https://github.com/Rasel006/Rasel006/blob/main/Navy Blue Geometric Technology LinkedIn Banner (1).png" />
 
 
