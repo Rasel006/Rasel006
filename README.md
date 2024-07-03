@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is  Md. Rasel
 #### CSE Student Programmer
-![CSE Student Programmer](https://img.freepik.com/premium-vector/abstract-background-football-theme-with-big-ball-other-soccer-symbols-black-gray-colors_444390-17035.jpg?w=826)
+![CSE Student Programmer]
+<img src="https://drive.google.com/file/d/1oV_VEvpt67LEZIIe3akFr0OK-T6-v0o6/view?usp=sharing" />
 
 
 🌟 Assalamu Alaikum! I'm Md. Rasel, a dedicated Muslim and passionate programmer from Bangladesh. 🇧🇩 with expertise in C, C++, Data Structure & Algorithms, OOP Python and more. Pursuing a BSc in Computer Science, seeking tech opportunities. Connect with me on GitHub!
