@@ -1,9 +1,9 @@
-### Hi there 👋, my name is  Md. Rasel
+### Hi there 👋, my name is  Md. Rasel (Rizu)
 <img src="https://github.com/Rasel006/Rasel006/blob/main/Navy Blue Geometric Technology LinkedIn Banner (1).png" />
 
 
 
-🌟 Assalamu Alaikum! I'm Md. Rasel, a dedicated Muslim and passionate programmer from Bangladesh. 🇧🇩 with expertise in C, C++, Data Structure & Algorithms, OOP Python and more. Pursuing a BSc in Computer Science, seeking tech opportunities. Connect with me on GitHub!
+🌟 Assalamu Alaikum! I'm Md. Rasel (Rizu), a dedicated Muslim and passionate programmer from Bangladesh. 🇧🇩 with expertise in C, C++, Data Structure & Algorithms, OOP Python and more. Pursuing a BSc in Computer Science, seeking tech opportunities. Connect with me on GitHub!
 
 
 # 💫 About Me:
